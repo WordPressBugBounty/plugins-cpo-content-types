@@ -1,0 +1,1 @@
+# plugins-cpo-content-types
