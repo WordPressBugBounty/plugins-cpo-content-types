@@ -2,7 +2,7 @@
 Contributors: cpothemes
 Tags: portfolio, features, slider, testimonials, clients
 Requires at least: 4.0
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -50,8 +50,9 @@ Add support for special content types in your website, such as a portfolio, feat
 5. You are now ready to use the new content types in the WordPress Admin
 
 == Frequently Asked Questions ==
+= Where do I report security bugs found in this plugin? =
 
-[Visit Our Support Forum At CPOThemes](http://www.cpothemes.com/forums/)
+Please report security bugs found in the source code of the CPO Content Types plugin through the [Patchstack Vulnerability Disclosure  Program](https://patchstack.com/database/vdp/9e5fba9e-1c17-4264-8f4c-95302879aa52). The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin."
 
 
 == Screenshots ==
